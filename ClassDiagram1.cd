@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_TP_5.MySqlClass">
+    <Position X="2" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABBEAAAAAQAAEAAAAAgAAAgAAAAAAQI=</HashCode>
+      <FileName>DAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_TP_5.DAO">
+    <Position X="4.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>DAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_TP_5.EleveDAO">
+    <Position X="6.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>EleveDAO.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_TP_5.Eleve">
+    <Position X="8.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEAAAAAAAAAAAAgAAAIAAAACAAICAAAAAgAAAABgA=</HashCode>
+      <FileName>Eleve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="_TP_5.IDAO&lt;T&gt;">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>IDAO.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
